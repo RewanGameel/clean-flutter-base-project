@@ -1,5 +1,5 @@
 # clean-flutter-base-project
-This repo is Based on Flutter clean-code clean-Architecture principles, Contains only the necessary folders, Librarys, Files and extensions to help kick start any flutter app.
+This repository is based on Flutter clean-code clean-architecture principles. It contains only the necessary folders, libraries, files, and extensions to help kickstart any Flutter app.
 
 ## SDK and Flutter
 Flutter 3.19.6 
